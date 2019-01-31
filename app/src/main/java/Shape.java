@@ -10,6 +10,6 @@ public abstract class Shape {
         return y;
     }
 
-    public abstract int setX(int x);
-    public abstract int setY(int Y);
+    public abstract void setX(int x);
+    public abstract void setY(int Y);
 }
