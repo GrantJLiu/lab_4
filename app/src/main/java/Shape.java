@@ -2,8 +2,10 @@ public abstract class Shape {
     protected int x;
     protected int y;
 
-    String colour;
-    protected int hongbozhong;
+    
+    String colour = "red";
+    protected int yifu;
+
 
     public int getX() {
         return x;
