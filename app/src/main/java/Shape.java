@@ -2,7 +2,12 @@ public abstract class Shape {
     protected int x;
     protected int y;
     String colour;
+
+
     protected int bowen;
+    protected int yifu;
+
+
 
     public int getX() {
         return x;
