@@ -1,6 +1,7 @@
 public abstract class Shape {
     protected int x;
     protected int y;
+    String colour;
 
     public int getX() {
         return x;
