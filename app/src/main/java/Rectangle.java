@@ -1,9 +1,6 @@
-public abstract class Shape {
+public abstract class Rectangle extends Shape {
     protected int x;
     protected int y;
-    String colour;
-    protected int z;
-
     public int getX() {
         return x;
     }
